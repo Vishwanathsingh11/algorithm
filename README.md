@@ -1,7 +1,7 @@
 ### Write an algorithm for accepting two numbers, divide the first number by second and display their quotient.
 
 ```
-star
+
 ```
 ### Write an algorithm for accepting distance in kilometers, convert it into meters and display the result.
 
