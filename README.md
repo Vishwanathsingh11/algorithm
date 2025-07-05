@@ -1,6 +1,15 @@
 ### Write an algorithm for accepting two numbers, divide the first number by second and display their quotient.
 
 ```
+Step1:- Start the algorithm.
+Step2:- Declare variables x and y. 
+Step3:- Take inputs and store in variables x and y respectively.
+Step4:- Declare variable z.
+Step5:- Compare x to y, if x is greater than y. Divde x by y and store value at z.
+Step6:- Compare x to y, if x is less than y. Divde y by x and store value at z.
+Step7:- Print z.
+Step8:- Stop the algorithm.
+
 
 ```
 ### Write an algorithm for accepting distance in kilometers, convert it into meters and display the result.
